@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Ravi Prakash Srivastava
 
-🎓 M.Tech (Data Science & AI) @ IIIT Ranchi
 🔬 Researcher in **Medical AI, Adversarial Robustness & Computer Vision**
 🏆 IETE Scholar | Best Paper Award (ICACA 2026)
 
