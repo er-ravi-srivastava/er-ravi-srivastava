@@ -16,15 +16,6 @@ My focus is on building **robust, reliable, and trustworthy ML systems** that pe
 * 📊 GPU-accelerated training & scalable experimentation
 
 ---
-## 📊 GitHub Stats & Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=er-ravi-srivastava&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=er-ravi-srivastava&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
 ## 🔬 Research Interests
 
 * Trustworthy AI & Robust Deep Learning
