@@ -121,7 +121,10 @@ My focus is on building **robust, reliable, and trustworthy ML systems** that pe
 * 📧 [raviprakashshrivastav7@gmail.com](mailto:raviprakashshrivastav7@gmail.com)
 * 💼 LinkedIn: https://linkedin.com/in/ravi-prakash-sri
 
-![Profile Views](https://komarev.com/ghpvc/?username=er-ravi-srivastava&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ---
 
 ## ⚡ Current Focus
