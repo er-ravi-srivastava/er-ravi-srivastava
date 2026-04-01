@@ -121,10 +121,56 @@ My focus is on building **robust, reliable, and trustworthy ML systems** that pe
 * 📧 [raviprakashshrivastav7@gmail.com](mailto:raviprakashshrivastav7@gmail.com)
 * 💼 LinkedIn: https://linkedin.com/in/ravi-prakash-sri
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+## 🛠️ Tech Stack
+
+### 🤖 Machine Learning & AI
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" />
+</p>
+
+### ⚙️ MLOps & Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,fastapi" />
+</p>
+
+### 🧠 LLM & AI Security
+<p>
+  <img src="https://img.shields.io/badge/Adversarial%20ML-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt%20Injection-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deepfake%20Detection-purple?style=for-the-badge" />
+</p>
+
+### 🗄️ Data Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/ETL-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Processing-green?style=for-the-badge" />
+</p>
+
+### 🧰 Tools & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" />
+  <img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface" />
+</p>
+
+### 🔧 Backend & Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,docker" />
+  <img src="https://img.shields.io/badge/Microservices-grey?style=for-the-badge" />
+</p>
+
+### 💻 Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,bash" />
+  <img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=postgresql" />
+</p>
+
+### 🖥️ Platforms & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git" />
+  <img src="https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter" />
+  <img src="https://img.shields.io/badge/LaTeX-green?style=for-the-badge&logo=latex" />
+</p>
 ---
 
 ## ⚡ Current Focus
