@@ -49,6 +49,12 @@ I work at the intersection of **Deep Learning, Application Security, and Trustwo
 
 ## 💼 Experience
 
+### 🔹 Software Engineer — SS Software Solutions LLC
+📅 *Mar 2026 – Present*
+* **ML Pipeline Governance:** Standardized model versioning (MLflow / DVC), structured JSON logging with distributed trace IDs, and drift-detection alerting — reduced incident diagnosis time by ~40% across 3 production models.
+* **AI Threat Modeling:** Deployed STRIDE threat modeling on ML systems; identified 8 design-level risks (data poisoning, model inversion) — cut mean time-to-debug by ~35%.
+* **DevSecOps Automation:** Integrated SAST tools (Bandit, Semgrep) and dependency-vulnerability scanning into GitHub Actions CI/CD pipelines — reduced manual security-review effort by ~60%.
+
 ### 🔹 Research Data Scientist — Pantech eLearning
 📅 *Feb 2023 – Aug 2024*
 * Built **robust deep learning models** for noisy, real-world datasets.
@@ -56,6 +62,7 @@ I work at the intersection of **Deep Learning, Application Security, and Trustwo
 * Designed **end-to-end ML pipelines**, drastically improving model reliability and inference speed.
 
 ### 🔹 Machine Learning Intern — C-DAC
+📅 *Aug 2022 – Feb 2023*
 * Executed large-scale **feature engineering** on longitudinal healthcare datasets.
 * Benchmarked traditional ML models (Random Forest, SVM, Decision Trees) against deep learning approaches.
 
