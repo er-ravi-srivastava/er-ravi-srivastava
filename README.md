@@ -17,6 +17,19 @@ I work at the intersection of **Deep Learning, Application Security, and Trustwo
 
 ## 🧠 Featured Projects
 
+### 📝 Cross-Domain Text Summarization Using Transformer Models *(Master's Thesis – Completed)*
+* Investigated domain shift and catastrophic forgetting in abstractive summarization, adapting news-trained models (BART-large-CNN) to legal documents (BillSum).
+* Fine-tuned with LoRA and Elastic Weight Consolidation (EWC) to preserve pre-trained knowledge, reducing GPU requirements (only ~1-2% parameters trainable).
+
+### 🔐 LLM Prompt Injection Attacks & Defenses *(ICACA 2026 – Best Paper 🏆)*
+* Simulated adversarial attacks designed to leak sensitive cryptographic keys and system prompts from LLMs.
+* Implemented defenses: Prompt sanitization, output filtering, and instruction hierarchy enforcement.
+
+### ⚡ LLM Semantic Cache & Analytics Dashboard
+* Designed a semantic caching layer for LLMs to retrieve responses based on query similarity, optimizing API latency and inference costs.
+* Built a Streamlit web playground to trace similarity thresholds, analyze query latency, and monitor real-time cache statistics.
+* 🔗 [Live Demo](https://llm-semantic-cache.streamlit.app/)
+
 ### 🛡️ WebApp Vulnerability Scanner
 * Built a comprehensive **SAST & DAST** security testing tool from scratch.
 * Integrates **Semgrep** for static code analysis (finding hardcoded secrets, injection flaws).
@@ -24,16 +37,13 @@ I work at the intersection of **Deep Learning, Application Security, and Trustwo
 * Modern web dashboard built with **Streamlit** and fully deployed via **Docker**.
 * [View Repository](https://github.com/er-ravi-srivastava/vulnerability-management)
 
-### 🔐 LLM Prompt Injection Attacks & Defenses *(ICACA 2026 – Best Paper 🏆)*
-* Simulated adversarial attacks designed to leak sensitive cryptographic keys and system prompts from LLMs.
-* Implemented defenses: Prompt sanitization, output filtering, and instruction hierarchy enforcement.
-
 ### 🧪 Balanced Few-Shot Episodic Learning for Retinal Disease Diagnosis
 * Applied few-shot learning to medical image analysis under severely limited labeled data constraints.
 * 🔗 [Read Paper on arXiv](https://arxiv.org/abs/2512.04967v1)
 
 ### 🛰️ IoT-HITS: Intrusion Detection System
 * Real-time human border surveillance system using **YOLO + IoT sensors**, deployed on the edge via **Raspberry Pi**.
+
 
 ---
 
