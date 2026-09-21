@@ -1,17 +1,44 @@
 # 👋 Hi, I'm Ravi Prakash Srivastava
 
 🔬 **Researcher & Developer in AI Security, Adversarial Robustness, and Computer Vision**
-🏆 IETE Scholar | Best Paper Award (ICACA 2026)
+🏆 IETE Scholar | Best Paper Award (ICACA 2026) | 3× Springer Nature Publications (2026)
 
 ---
 
 ## 🚀 About Me
 
-I work at the intersection of **Deep Learning, Application Security, and Trustworthy AI**. My focus is on building robust, reliable ML systems and developing cutting-edge tools to secure web applications and AI models against emerging threats.
+I hold an M.Tech in **Data Science & Artificial Intelligence** from IIIT Ranchi, where I received the **IETE Postgraduate Fellowship** for academic excellence. I work at the intersection of **Deep Learning, Application Security, and Trustworthy AI** — building robust, reliable ML systems and developing cutting-edge tools to secure web applications and AI models against emerging threats.
+
+Recently, three of my research papers have been accepted for publication in **Springer Nature** (Lecture Notes in Networks and Systems) through ICACA 2026 and ICNSBT 2026, with one receiving the **Best Paper Award**. I am currently working as a **Software Engineer at SS Software Solutions LLC**, designing ML pipeline infrastructure and security tooling.
 
 * 🛡️ **AI & App Security:** Adversarial ML, LLM Security (Prompt Injection), SAST & DAST Tooling
-* 🧠 **Deep Learning:** Few-shot learning, Medical Imaging, Deepfakes
-* ⚙️ **Engineering:** End-to-end ML pipelines, Dockerization, MLOps
+* 🧠 **Deep Learning:** Few-shot learning, Medical Imaging, Deepfake Detection, NLP
+* ⚙️ **Engineering:** End-to-end ML pipelines, MLOps, DevSecOps
+
+---
+
+## 📄 Recent Publications
+
+### Journal Articles
+
+| Year | Title | Venue |
+|------|-------|-------|
+| Jul 2025 | [IoT-HITS: An IoT Based Human Intrusion Detection System for Border Region Using Deep Learning](https://www.tandfonline.com/doi/full/10.1080/03772063.2023.2300330) | **IETE Journal of Research**, Vol. 71, Taylor & Francis |
+| Mar 2022 | Smart City Vehicle Accident Monitoring and Detection System using MEMS, GSM, GPS, Raspberry Pi 4 | **IETE Journal of Research**, Vol. 69, Taylor & Francis |
+
+### Conference Papers
+
+| Year | Title | Venue |
+|------|-------|-------|
+| 2026 🏆 | Adversarial Prompt Injection Attacks on Large Language Models: Cryptographic Key Leakage and Defense Strategies | **ICACA 2026**, Springer Nature LNNS [In press] — **Best Paper Award** |
+| 2026 | Deepfake Video Detection using Face-Centric Processing and Frame Sampling | **ICACA 2026**, Springer Nature LNNS [In press] |
+| 2026 | AI-Powered Code Review Assistant: Eliminating LLM Pipeline using AST-Enhanced Hallucination to Analyze Pull Requests Automatically | **ICNSBT 2026**, Springer Nature LNNS [Accepted] |
+
+### Preprints
+
+| Date | Title | Link |
+|------|-------|------|
+| Dec 2025 | Balanced Few-Shot Episodic Learning for Accurate Retinal Disease Diagnosis | [arXiv:2512.04967](https://arxiv.org/abs/2512.04967v1) |
 
 ---
 
@@ -24,6 +51,14 @@ I work at the intersection of **Deep Learning, Application Security, and Trustwo
 ### 🔐 LLM Prompt Injection Attacks & Defenses *(ICACA 2026 – Best Paper 🏆)*
 * Simulated adversarial attacks designed to leak sensitive cryptographic keys and system prompts from LLMs.
 * Implemented defenses: Prompt sanitization, output filtering, and instruction hierarchy enforcement.
+
+### 🎭 Deepfake Video Detection *(ICACA 2026 – Springer Nature)*
+* Developed a face-centric video analysis pipeline using frame sampling and deep learning to detect AI-generated deepfake videos.
+* Accepted for publication in Springer Nature Lecture Notes in Networks and Systems.
+
+### 🤖 AI-Powered Code Review Assistant *(ICNSBT 2026 – Springer Nature)*
+* Built an automated pull request review system using AST-enhanced analysis to eliminate hallucination in LLM-based code review pipelines.
+* Accepted for publication in Springer Nature Lecture Notes in Networks and Systems.
 
 ### ⚡ LLM Semantic Cache & Analytics Dashboard
 * Designed a semantic caching layer for LLMs to retrieve responses based on query similarity, optimizing API latency and inference costs.
@@ -55,16 +90,10 @@ I work at the intersection of **Deep Learning, Application Security, and Trustwo
 * **AI Threat Modeling:** Deployed STRIDE threat modeling on ML systems; identified 8 design-level risks (data poisoning, model inversion) — cut mean time-to-debug by ~35%.
 * **DevSecOps Automation:** Integrated SAST tools (Bandit, Semgrep) and dependency-vulnerability scanning into GitHub Actions CI/CD pipelines — reduced manual security-review effort by ~60%.
 
-### 🔹 Research Data Scientist — Pantech eLearning
-📅 *Feb 2023 – Aug 2024*
-* Built **robust deep learning models** for noisy, real-world datasets.
-* Performed **distribution shift & stress testing** to uncover and patch failure modes.
-* Designed **end-to-end ML pipelines**, drastically improving model reliability and inference speed.
-
-### 🔹 Machine Learning Intern — C-DAC
+### 🔹 Machine Learning Intern — C-DAC (Government of India)
 📅 *Aug 2022 – Feb 2023*
-* Executed large-scale **feature engineering** on longitudinal healthcare datasets.
-* Benchmarked traditional ML models (Random Forest, SVM, Decision Trees) against deep learning approaches.
+* Executed large-scale **feature engineering** on longitudinal educational datasets.
+* Benchmarked traditional ML models (Random Forest, SVM, Decision Trees) for academic performance prediction.
 
 ---
 
@@ -89,16 +118,28 @@ I work at the intersection of **Deep Learning, Application Security, and Trustwo
 
 ## ⚡ Current Focus
 
-* 📚 Preparing for PhD in **Robust AI & Biomedical Imaging**.
+* 📚 Preparing for PhD in **Robust AI, NLP & Biomedical Imaging**.
+* 📝 Publishing research in **Springer Nature** on LLM security, deepfake detection, and AI-powered DevTools.
 * 🔍 Developing advanced **SAST/DAST tooling** and researching **LLM vulnerabilities**.
 * 🧪 Building scalable, reproducible, and secure machine learning systems.
 
 ---
 
+## 🏅 Awards & Recognition
+
+* 🏆 **Best Paper Award** — ICACA 2026, for *Adversarial Prompt Injection Attacks on Large Language Models*
+* 🎓 **IETE Postgraduate Fellowship** — Institution of Electronics and Telecommunication Engineers, New Delhi (2024)
+* 📋 **Peer Reviewer** — ICICST 2026, Dr. B.R. Ambedkar NIT Jalandhar
+* 🎖️ **Associate Member (AMIETE)** — Institution of Electronics and Telecommunication Engineers (2022)
+
+---
+
 ## 📫 Connect With Me
 
+* 🌐 Website: [er-ravi-srivastava.github.io](https://er-ravi-srivastava.github.io/)
 * 📧 Email: [raviprakashshrivastav7@gmail.com](mailto:raviprakashshrivastav7@gmail.com)
 * 💼 LinkedIn: [Ravi Prakash Srivastava](https://linkedin.com/in/ravi-prakash-sri)
+* 🎓 Google Scholar: [Scholar Profile](https://scholar.google.com/citations?user=sElDRIMAAAAJ&hl=en)
 
 ---
 ⭐ *If you find my work interesting, feel free to connect or collaborate!*
