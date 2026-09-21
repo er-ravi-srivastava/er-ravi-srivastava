@@ -118,7 +118,6 @@ Recently, three of my research papers have been accepted for publication in **Sp
 
 ## ⚡ Current Focus
 
-* 📚 Preparing for PhD in **Robust AI, NLP & Biomedical Imaging**.
 * 📝 Publishing research in **Springer Nature** on LLM security, deepfake detection, and AI-powered DevTools.
 * 🔍 Developing advanced **SAST/DAST tooling** and researching **LLM vulnerabilities**.
 * 🧪 Building scalable, reproducible, and secure machine learning systems.
